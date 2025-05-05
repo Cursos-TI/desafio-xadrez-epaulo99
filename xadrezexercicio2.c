@@ -14,10 +14,7 @@ while(i == 1) {
 
 
         printf("Baixo\n");
-
-
     }
-
     printf("Esquerda\n");
     i--;
 }
